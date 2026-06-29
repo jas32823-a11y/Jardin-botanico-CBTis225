@@ -28,7 +28,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -43,7 +43,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 4,
@@ -57,7 +57,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 5,
@@ -71,7 +71,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 6,
@@ -85,7 +85,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 7,
@@ -99,7 +99,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 8,
@@ -113,7 +113,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 9,
@@ -127,7 +127,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 10,
@@ -141,7 +141,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 11,
@@ -156,7 +156,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -172,7 +172,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -187,7 +187,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 14,
@@ -201,7 +201,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 15,
@@ -215,7 +215,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 16,
@@ -229,7 +229,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 17,
@@ -243,7 +243,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 18,
@@ -257,7 +257,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 19,
@@ -271,7 +271,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 20,
@@ -285,7 +285,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 21,
@@ -300,7 +300,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -316,7 +316,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -331,7 +331,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 24,
@@ -345,7 +345,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 25,
@@ -359,7 +359,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 26,
@@ -373,7 +373,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 27,
@@ -387,7 +387,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 28,
@@ -401,7 +401,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 29,
@@ -415,7 +415,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 30,
@@ -429,7 +429,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 31,
@@ -444,7 +444,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -460,7 +460,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -475,7 +475,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 34,
@@ -489,7 +489,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 35,
@@ -503,7 +503,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 36,
@@ -517,7 +517,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 37,
@@ -531,7 +531,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 38,
@@ -545,7 +545,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 39,
@@ -559,7 +559,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 40,
@@ -573,7 +573,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 41,
@@ -588,7 +588,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -604,7 +604,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -619,7 +619,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 44,
@@ -633,7 +633,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 45,
@@ -647,7 +647,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 46,
@@ -661,7 +661,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 47,
@@ -675,7 +675,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 48,
@@ -689,7 +689,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 49,
@@ -703,7 +703,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 50,
@@ -717,7 +717,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 51,
@@ -732,7 +732,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -748,7 +748,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -763,7 +763,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 54,
@@ -777,7 +777,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 55,
@@ -791,7 +791,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 56,
@@ -805,7 +805,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 57,
@@ -819,7 +819,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 58,
@@ -833,7 +833,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 59,
@@ -847,7 +847,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 60,
@@ -861,7 +861,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 61,
@@ -876,7 +876,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -892,7 +892,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -907,7 +907,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 64,
@@ -921,7 +921,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 65,
@@ -935,7 +935,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 66,
@@ -949,7 +949,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 67,
@@ -963,7 +963,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 68,
@@ -977,7 +977,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 69,
@@ -991,7 +991,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 70,
@@ -1005,7 +1005,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 71,
@@ -1020,7 +1020,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1036,7 +1036,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1051,7 +1051,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 74,
@@ -1065,7 +1065,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 75,
@@ -1079,7 +1079,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 76,
@@ -1093,7 +1093,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 77,
@@ -1107,7 +1107,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 78,
@@ -1121,7 +1121,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 79,
@@ -1135,7 +1135,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 80,
@@ -1149,7 +1149,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 81,
@@ -1164,7 +1164,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1180,7 +1180,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1195,7 +1195,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 84,
@@ -1209,7 +1209,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 85,
@@ -1223,7 +1223,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 86,
@@ -1237,7 +1237,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 87,
@@ -1251,7 +1251,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 88,
@@ -1265,7 +1265,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 89,
@@ -1279,7 +1279,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 90,
@@ -1293,7 +1293,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 91,
@@ -1308,7 +1308,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1324,7 +1324,7 @@ const plantas = [
     ],
     descripcion:
         "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "img/rosa.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1339,7 +1339,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 94,
@@ -1353,7 +1353,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 95,
@@ -1367,7 +1367,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 96,
@@ -1381,7 +1381,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 97,
@@ -1395,7 +1395,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 98,
@@ -1409,7 +1409,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 99,
@@ -1423,7 +1423,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 100,
@@ -1437,7 +1437,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 101,
@@ -1451,7 +1451,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 102,
@@ -1465,7 +1465,7 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 },
 {
     id: 103,
@@ -1479,6 +1479,6 @@ const plantas = [
     ],
     descripcion:
         "Produce flores grandes durante gran parte del año.",
-    imagen: "img/hibiscus.jpg"
+    imagen: "mezquite.png"
 }
 ];
