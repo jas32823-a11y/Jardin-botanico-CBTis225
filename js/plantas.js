@@ -12,7 +12,7 @@ const plantas = [
     ],
     descripcion:
         "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "img/ficus.jpg"
+    imagen: "mezquite.png"
 },
 
 {
@@ -1438,7 +1438,7 @@ const plantas = [
     descripcion:
         "Produce flores grandes durante gran parte del año.",
     imagen: "img/hibiscus.jpg"
-},s
+},
 {
     id: 101,
     cientifico: "Hibiscus rosa-sinensis",
