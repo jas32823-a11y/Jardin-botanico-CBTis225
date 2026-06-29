@@ -1,77 +1,29 @@
 const plantas = [
 {
     id: 1,
-    cientifico: "Ficus benjamina",
-    comun: "Laurel de la India",
-    origen: "Exótica",
-    ubicacion: "Entrada principal",
-    usos: [
-        "Ornamental",
-        "Sombra",
-        "Captura de CO₂"
-    ],
-    descripcion:
-        "Árbol muy utilizado en jardines y parques por su amplia copa.",
-    imagen: "mezquite.png"
+    cientifico: "Acacia de alba",
+    imagen: "acacia dealbata.png"
 },
 
 {
     id: 2,
-    cientifico: "Rosa spp.",
-    comun: "Rosa",
-    origen: "Exótica",
-    ubicacion: "Jardín central",
-    usos: [
-        "Ornamental",
-        "Medicinal",
-        "Perfumería"
-    ],
-    descripcion:
-        "Arbusto con flores muy apreciadas por su belleza y aroma.",
-    imagen: "mezquite.png"
+    imagen: "Prosopis alba.png"
 },
 
 {
     id: 3,
-    cientifico: "Hibiscus rosa-sinensis",
-    comun: "Tulipán",
-    origen: "Exótica",
-    ubicacion: "Frente biblioteca",
-    usos: [
-        "Ornamental",
-        "Polinizadores"
-    ],
-    descripcion:
-        "Produce flores grandes durante gran parte del año.",
-    imagen: "mezquite.png"
+    cientifico: "Tecoma stans",
+    imagen: "Tecoma stans.png"
 },
 {
     id: 4,
-    cientifico: "Hibiscus rosa-sinensis",
-    comun: "Tulipán",
-    origen: "Exótica",
-    ubicacion: "Frente biblioteca",
-    usos: [
-        "Ornamental",
-        "Polinizadores"
-    ],
-    descripcion:
-        "Produce flores grandes durante gran parte del año.",
-    imagen: "mezquite.png"
+    cientifico: "Jacaranda sudamericana",
+    imagen: "Jacaranda mismosifolia.png"
 },
 {
     id: 5,
-    cientifico: "Hibiscus rosa-sinensis",
-    comun: "Tulipán",
-    origen: "Exótica",
-    ubicacion: "Frente biblioteca",
-    usos: [
-        "Ornamental",
-        "Polinizadores"
-    ],
-    descripcion:
-        "Produce flores grandes durante gran parte del año.",
-    imagen: "mezquite.png"
+    cientifico: "Mosaic puffball",
+    imagen: "Mosaic puffball.png"
 },
 {
     id: 6,
