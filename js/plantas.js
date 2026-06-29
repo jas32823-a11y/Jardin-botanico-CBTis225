@@ -144,7 +144,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 11,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -160,7 +160,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 12,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -176,7 +176,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 13,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -190,7 +190,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 14,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -204,7 +204,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 15,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -218,7 +218,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 16,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -232,7 +232,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 17,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -246,7 +246,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 18,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -260,7 +260,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 19,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -274,7 +274,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 20,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -288,7 +288,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 21,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -304,7 +304,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 22,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -320,7 +320,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 23,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -334,7 +334,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 24,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -348,7 +348,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 25,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -362,7 +362,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 26,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -376,7 +376,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 27,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -390,7 +390,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 28,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -404,7 +404,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 29,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -418,7 +418,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 30,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -432,7 +432,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 31,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -448,7 +448,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 32,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -464,7 +464,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 33,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -478,7 +478,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 34,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -492,7 +492,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 35,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -506,7 +506,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 36,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -520,7 +520,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 37,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -534,7 +534,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 38,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -548,7 +548,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 39,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -562,7 +562,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 40,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -576,7 +576,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 41,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -592,7 +592,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 42,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -608,7 +608,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 43,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -622,7 +622,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 44,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -636,7 +636,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 45,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -650,7 +650,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 46,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -664,7 +664,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 47,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -678,7 +678,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 48,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -692,7 +692,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 49,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -706,7 +706,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 50,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -720,7 +720,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 51,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -736,7 +736,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 52,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -752,7 +752,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 53,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -766,7 +766,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 54,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -780,7 +780,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 55,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -794,7 +794,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 56,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -808,7 +808,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 57,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -822,7 +822,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 58,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -836,7 +836,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 59,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -850,7 +850,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 60,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -864,7 +864,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 61,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -880,7 +880,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 62,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -896,7 +896,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 63,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -910,7 +910,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 64,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -924,7 +924,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 65,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -938,7 +938,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 66,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -952,7 +952,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 67,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -966,7 +966,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 68,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -980,7 +980,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 69,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -994,7 +994,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 70,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1008,7 +1008,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 71,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -1024,7 +1024,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 72,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -1040,7 +1040,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 73,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1054,7 +1054,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 74,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1068,7 +1068,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 75,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1082,7 +1082,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 76,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1096,7 +1096,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 77,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1110,7 +1110,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 78,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1124,7 +1124,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 79,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1138,7 +1138,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 80,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1152,7 +1152,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 81,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -1168,7 +1168,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 82,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -1184,7 +1184,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 83,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1198,7 +1198,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 84,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1212,7 +1212,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 85,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1226,7 +1226,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 86,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1240,7 +1240,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 87,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1254,7 +1254,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 88,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1268,7 +1268,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 89,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1282,7 +1282,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 90,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1296,7 +1296,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 1,
+    id: 91,
     cientifico: "Ficus benjamina",
     comun: "Laurel de la India",
     origen: "Exótica",
@@ -1312,7 +1312,7 @@ const plantas = [
 },
 
 {
-    id: 2,
+    id: 92,
     cientifico: "Rosa spp.",
     comun: "Rosa",
     origen: "Exótica",
@@ -1328,7 +1328,7 @@ const plantas = [
 },
 
 {
-    id: 3,
+    id: 93,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1342,7 +1342,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 4,
+    id: 94,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1356,7 +1356,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 5,
+    id: 95,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1370,7 +1370,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 6,
+    id: 96,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1384,7 +1384,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 7,
+    id: 97,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1398,7 +1398,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 8,
+    id: 98,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1412,7 +1412,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 9,
+    id: 99,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1426,7 +1426,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 10,
+    id: 100,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1440,7 +1440,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },s
 {
-    id: 11,
+    id: 101,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1454,7 +1454,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 12,
+    id: 102,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
@@ -1468,7 +1468,7 @@ const plantas = [
     imagen: "img/hibiscus.jpg"
 },
 {
-    id: 13,
+    id: 103,
     cientifico: "Hibiscus rosa-sinensis",
     comun: "Tulipán",
     origen: "Exótica",
