@@ -26,21 +26,26 @@ body{
 /*CONTENEDOR PRINCIPAL*/
 
 .contenedor{
+    width:95%;
 
-    text-align:center;
-
-    width:100%;
-
-    max-width:800px;
+    max-width:900px;
+    
+    margin:30px auto;
 
     background:white;
 
-    border-radius:18px;
+    padding:20px;
 
-    padding:40px;
+    border-radius:15px;
+}
 
-    box-shadow:0 12px 30px rgba(0,0,0,.25);
+#imagen{
 
+    width:100%;
+
+    height:95%;
+
+    border-radius:10px;
 }
 
 
@@ -125,9 +130,7 @@ a:hover{
 }
 
 
-/*
-   RESPONSIVE
-*/
+/*RESPONSIVE*/
 
 @media(max-width:700px){
 
