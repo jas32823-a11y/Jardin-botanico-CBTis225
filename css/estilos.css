@@ -1,0 +1,146 @@
+/*ESTILOS GENERALES*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background:#8b1e24;
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    padding:40px 20px;
+
+}
+
+
+/*CONTENEDOR PRINCIPAL*/
+
+.contenedor{
+
+    text-align:center;
+
+    width:100%;
+
+    max-width:800px;
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    box-shadow:0 12px 30px rgba(0,0,0,.25);
+
+}
+
+
+/*TITULO*/
+
+h1{
+
+    text-align:center;
+
+    color:#8b1e24;
+
+    margin-bottom:35px;
+
+    font-size:2.3rem;
+
+}
+
+
+/*LISTA*/
+
+ul{
+
+    list-style:none;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:15px;
+
+}
+
+
+/*TARJETAS*/
+
+li{
+
+    background:#f7f7f7;
+
+    border-left:6px solid #8b1e24;
+
+    border-radius:10px;
+
+    transition:.25s;
+
+}
+
+
+li:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 8px 18px rgba(0,0,0,.15);
+
+    background:#f1f9f2;
+
+}
+
+
+/*LINKS*/
+
+a{
+
+    display:block;
+
+    padding:18px;
+
+    text-decoration:none;
+
+    color:#000000;
+
+    font-weight:bold;
+
+    transition:.2s;
+
+}
+
+a:hover{
+
+    color:#1b7a34;
+
+}
+
+
+/*
+   RESPONSIVE
+*/
+
+@media(max-width:700px){
+
+    .contenedor{
+
+        padding:20px;
+
+    }
+
+    h1{
+
+        font-size:1.8rem;
+
+    }
+
+}
